@@ -105,7 +105,7 @@ This architecture demonstrates key robotic system principles including:
 ---
 
 ## Figures
-*(Photos of the prototype, electronics, and testing setup are included to illustrate the system design and functionality.)*
+![Da Vinci Surgical System – Final Prototype](_figures/Da Vinci Surgical System Final Product.png)
 
 ---
 
